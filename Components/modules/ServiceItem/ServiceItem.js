@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default function ServiceItem() {
-  return (
-    <div>ServiceItem</div>
-  )
+function ServiceItem() {
+  return <div>ServiceItem</div>;
 }
+
+export default ServiceItem;

@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default function ReservationDetail() {
-  return (
-    <div>ReservationDetail</div>
-  )
+function ReservationDetail() {
+  return <div>ReservationDetail</div>;
 }
+
+export default ReservationDetail;
