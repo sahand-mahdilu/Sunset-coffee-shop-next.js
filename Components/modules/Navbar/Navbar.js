@@ -8,7 +8,7 @@ function Navbar() {
         class={`${styles.navbar} ${styles.navbar_expand_lg} bg-none navbar-dark py-3`}
       >
         <a href="index.html" class={`${styles.navbar_brand} px-lg-4 m-0`}>
-          <h1 class="m-0 display-4 text-uppercase text-white">Sunset-Coffee</h1>
+          <h1 class="m-0 display-4 text-uppercase text-white">Next-Coffee</h1>
         </a>
         <button
           type="button"
@@ -36,7 +36,7 @@ function Navbar() {
               Service
             </a>
             <a href="menu.html" class={`${styles.nav_link}`}>
-              Menudsfa
+              Menu
             </a>
             <div class={`${styles.dropdown}`}>
               <a
